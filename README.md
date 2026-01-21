@@ -1,2 +1,2 @@
-#Agriculture Dataset AI Prototype
+# Agriculture Dataset AI Prototype
 This project implements a basic AI prototype using TensorFlow to predict crop health using agricultural data.
