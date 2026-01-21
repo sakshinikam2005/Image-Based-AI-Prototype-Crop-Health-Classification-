@@ -1,2 +1,2 @@
-# Image-Based-AI-Prototype-Crop-Health-Classification-
-This project implements a CNN-based AI model using image data to classify crop leaves as healthy or unhealthy.
+#Agriculture Dataset AI Prototype
+This project implements a basic AI prototype using TensorFlow to predict crop health using agricultural data.
